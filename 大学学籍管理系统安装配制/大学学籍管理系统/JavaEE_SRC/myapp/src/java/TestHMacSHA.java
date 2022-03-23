@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
-import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
+//import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 
 public class TestHMacSHA {
   public static final String SECRET_ACCESS_KEY = "a9003e4e3f3530dbfa104083ca897ccbb06517d8";
